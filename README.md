@@ -1,0 +1,2 @@
+# template
+GitHub template settings
