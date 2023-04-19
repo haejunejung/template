@@ -1,5 +1,5 @@
-name: Feature
-description: Submit a proposal for a new feature ❗️
+name: Feature 🤩
+description: Submit a proposal for a new feature
 title: "[Feature]: "
 body:
   - type: textarea
