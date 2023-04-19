@@ -1,6 +1,7 @@
 name: Feature 🤩
 description: Submit a proposal for a new feature
 title: "[Feature]: "
+labels: ["Feature 🤩"]
 body:
   - type: textarea
     id: motivation

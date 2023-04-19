@@ -1,6 +1,7 @@
 name: Bug 😡
 description: Tell us about any bugs you find
 title: "[Bug]: "
+labels: ["Bug Report 😡"]
 body:
   - type: textarea
     id: bug

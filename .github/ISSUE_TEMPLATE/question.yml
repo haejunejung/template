@@ -1,6 +1,7 @@
 name: Question 🙋🙋‍♀️🙋‍♂️
 description: Tell us about your questions or improvements
 title: "[Question]: "
+labels: ["Question 🙋🙋‍♀️🙋‍♂️"]
 body:
   - type: textarea
     id: question
