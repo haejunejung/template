@@ -1,0 +1,19 @@
+name: Question
+description: Tell us about your questions or improvements ❗️
+title: "[Question]: "
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: "Question"
+      description: Please write a description of your question or what do you want to improvement
+    validations:
+      required: true
+
+  - type: textarea
+    id: expectation
+    attributes:
+      label: "Expection"
+      description: Please write a description of what you expect to happen.
+    validations:
+      required: false
