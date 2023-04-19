@@ -1,0 +1,20 @@
+name: Help 🤷‍♀️🤷🤷‍♂️
+description: Submit when asking for help
+title: "[Help]: "
+labels: ["Help 🤷‍♀️🤷🤷‍♂️"]
+body:
+  - type: textarea
+    id: work
+    attributes:
+      label: "Progress 📑"
+      description: What are you currently working on??
+    validations:
+      required: true
+
+  - type: textarea
+    id: help
+    attributes:
+      label: "Help 🤷‍♀️🤷🤷‍♂️"
+      description: What do you need help with?
+    validations:
+      required: true
