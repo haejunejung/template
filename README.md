@@ -5,7 +5,7 @@
 ┃ ┣ 📜bug.yml  
 ┃ ┣ 📜feature.yml  
 ┃ ┣ 📜help.yml  
-┃ ┗ 📜question.yml
+┃ ┗ 📜question.yml  
 ┣ 📜.gitmessage.txt  
 ┗ 📜pull_request_template.md
 
@@ -33,7 +33,7 @@ git config commit.template .gitmessage.txt
 변경 : git commit
 ```
 
-이후 commit template의 내용이 뜨는데, 컨벤션에 맞도록 작성하면 된다.
+이후 commit template의 내용이 뜨는데, 컨벤션에 맞도록 작성하면 됩니다.
 
 <hr>
 나중에 협업이 필요할 때 사용하기 위해 작성한 탬플릿입니다.
